@@ -13,3 +13,18 @@ D:\varnode.ai\Workspace\basic-3tier-app\src\api\Basic3TierAPI\Basic3Tier.Core\ob
 D:\varnode.ai\Workspace\basic-3tier-app\src\api\Basic3TierAPI\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.pdb
 D:\varnode.ai\Workspace\basic-3tier-app\src\api\Basic3TierAPI\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.genruntimeconfig.cache
 D:\varnode.ai\Workspace\basic-3tier-app\src\api\Basic3TierAPI\Basic3Tier.Core\obj\Debug\net7.0\ref\Basic3Tier.Core.dll
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\bin\Debug\net7.0\Basic3Tier.Core.deps.json
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\bin\Debug\net7.0\Basic3Tier.Core.runtimeconfig.json
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\bin\Debug\net7.0\Basic3Tier.Core.dll
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\bin\Debug\net7.0\Basic3Tier.Core.pdb
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.csproj.AssemblyReference.cache
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.AssemblyInfoInputs.cache
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.AssemblyInfo.cs
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.csproj.CoreCompileInputs.cache
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.sourcelink.json
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.dll
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\refint\Basic3Tier.Core.dll
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.pdb
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\Basic3Tier.Core.genruntimeconfig.cache
+C:\Users\UNITY INTERN\Desktop\Restaurant-app\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\api\Basic3Tier.Core\obj\Debug\net7.0\ref\Basic3Tier.Core.dll

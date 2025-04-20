@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diogobarros/Desktop/3-tier-application/api/Tests/Basic3Tier.Infrastructure.Tests/Basic3Tier.Infrastructure.Tests.csproj": {}
+    "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Tests\\Basic3Tier.Infrastructure.Tests\\Basic3Tier.Infrastructure.Tests.csproj": {}
   },
   "projects": {
-    "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/Basic3Tier.Core.csproj": {
+    "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\Basic3Tier.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/Basic3Tier.Core.csproj",
+        "projectUniqueName": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\Basic3Tier.Core.csproj",
         "projectName": "Basic3Tier.Core",
-        "projectPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/Basic3Tier.Core.csproj",
-        "packagesPath": "/Users/diogobarros/.nuget/packages/",
-        "outputPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/obj/",
+        "projectPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\Basic3Tier.Core.csproj",
+        "packagesPath": "C:\\Users\\UNITY INTERN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/diogobarros/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\UNITY INTERN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -86,6 +86,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -93,35 +97,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/Basic3Tier.Infrastructure.csproj": {
+    "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\Basic3Tier.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/Basic3Tier.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\Basic3Tier.Infrastructure.csproj",
         "projectName": "Basic3Tier.Infrastructure",
-        "projectPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/Basic3Tier.Infrastructure.csproj",
-        "packagesPath": "/Users/diogobarros/.nuget/packages/",
-        "outputPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\Basic3Tier.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\UNITY INTERN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/diogobarros/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\UNITY INTERN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/Basic3Tier.Core.csproj": {
-                "projectPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Core/Basic3Tier.Core.csproj"
+              "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\Basic3Tier.Core.csproj": {
+                "projectPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Core\\Basic3Tier.Core.csproj"
               }
             }
           }
@@ -135,7 +138,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -173,6 +177,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -180,35 +188,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/diogobarros/Desktop/3-tier-application/api/Tests/Basic3Tier.Infrastructure.Tests/Basic3Tier.Infrastructure.Tests.csproj": {
+    "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Tests\\Basic3Tier.Infrastructure.Tests\\Basic3Tier.Infrastructure.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diogobarros/Desktop/3-tier-application/api/Tests/Basic3Tier.Infrastructure.Tests/Basic3Tier.Infrastructure.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Tests\\Basic3Tier.Infrastructure.Tests\\Basic3Tier.Infrastructure.Tests.csproj",
         "projectName": "Basic3Tier.Infrastructure.Tests",
-        "projectPath": "/Users/diogobarros/Desktop/3-tier-application/api/Tests/Basic3Tier.Infrastructure.Tests/Basic3Tier.Infrastructure.Tests.csproj",
-        "packagesPath": "/Users/diogobarros/.nuget/packages/",
-        "outputPath": "/Users/diogobarros/Desktop/3-tier-application/api/Tests/Basic3Tier.Infrastructure.Tests/obj/",
+        "projectPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Tests\\Basic3Tier.Infrastructure.Tests\\Basic3Tier.Infrastructure.Tests.csproj",
+        "packagesPath": "C:\\Users\\UNITY INTERN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Tests\\Basic3Tier.Infrastructure.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/diogobarros/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\UNITY INTERN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/Basic3Tier.Infrastructure.csproj": {
-                "projectPath": "/Users/diogobarros/Desktop/3-tier-application/api/Basic3Tier.Infrastructure/Basic3Tier.Infrastructure.csproj"
+              "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\Basic3Tier.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\UNITY INTERN\\Desktop\\Restaurant-app\\3-tier-application--Amazon-Ec2-Instance-as-Docker-containers\\api\\Basic3Tier.Infrastructure\\Basic3Tier.Infrastructure.csproj"
               }
             }
           }
@@ -222,7 +229,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -272,6 +280,10 @@
             {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -279,7 +291,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
