@@ -127,17 +127,27 @@ This repository contains a **3-tier web application (Frontend UI, .NET API, Post
 
 ## 📷 Screenshots (Showcasing My Work)
 
+
+
 ![GitHub Actions Pipeline](screenshots/github-actions.png)  
 **My automated CI/CD pipeline building and deploying Docker images**
 
-![Docker Hub Images](screenshots/dockerhub.png)  
+
+
+![Docker Hub Images](screenshots/docker-hub.png)  
 **API & UI images successfully pushed to Docker Hub**
+
+
 
 ![EC2 Containers](screenshots/docker-ps.png)  
 **All three containers (db, api, ui) running on my EC2 instance**
 
+
+
 ![Frontend UI](screenshots/ui.png)  
 **The frontend successfully connected to API & database via EC2 public IP**
+
+
 
 ![API Swagger Docs](screenshots/swagger.png)  
 **The .NET API exposed via Swagger documentation, accessible through EC2 public IP**
@@ -146,13 +156,18 @@ This repository contains a **3-tier web application (Frontend UI, .NET API, Post
 
 
 ## 🌱 My Learning Journey
-What started as a lab exercise became a complete end-to-end project where I:
+What started as a lab exercise became a complete end-to-end project where I :
 
 ✅ Added health checks & error handling
+
 ✅ Implemented environment-specific configs
+
 ✅ Set up Docker networking correctly
+
 ✅ Built CI/CD pipelines
+
 ✅ Documented everything for others to follow
+
 
 
 ## 📌 Why This Matters for My DevOps Career
@@ -176,7 +191,11 @@ This project shows I can:
 ## 👨‍💻 About Me
 Donatus Emeka Anyalebechi
 DevOps Engineer | Staatlich geprüfter Informatiker (Software Technology, EQF Level 6)
+
 📍 Duisburg, Germany
+
 📧 donaemeka92@gmail.com
+
 💼 linkedin.com/in/donatus-devops
+
 🐙 github.com/donaemeka 
